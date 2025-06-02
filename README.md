@@ -18,6 +18,4 @@ To run the Python scripts:
    git clone https://github.com/DogaDeryaBucan/ELE452_FinalPrework.git
    cd ELE452_FinalPrework
    
-git remote add origin https://github.com/DogaDeryaBucan/ELE452_FinalPrework.git
-git branch -M main
-git push -u origin main
+
